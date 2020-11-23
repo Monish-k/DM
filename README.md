@@ -1,2 +1,2 @@
 # DM
-DM project
+Maccha edrale clean madi eduke commit kodu
